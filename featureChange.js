@@ -5,6 +5,7 @@ function sampleFunction(some_params){
     console.log("Change 4");
     console.log("Change 5");
     console.log("Change 6");
+    console.log("Change 7");
     return
 }
 
